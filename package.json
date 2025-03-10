@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "express": "^4.21.2",
+    "mysql2": "^3.13.0",
+    "sequelize": "^6.37.6"
+  },
+  "scripts": {
+    "start": "node question5.js",
+    "dev": "nodemon question5.js"
+  }
+}
